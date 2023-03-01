@@ -6,6 +6,8 @@
 
 <br />
 
+![](https://komarev.com/ghpvc/?username=MohammedHarmouche)
+
 ## Languages and Tools
 
 <div>
