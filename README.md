@@ -8,7 +8,6 @@
 
 ![](https://komarev.com/ghpvc/?username=MohammedHarmouche&color=yellow)
 
-<br />
 
 ## Languages and Tools
 
