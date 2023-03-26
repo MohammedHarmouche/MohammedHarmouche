@@ -6,7 +6,7 @@
 
 <br />
 
-<!-- ![](https://komarev.com/ghpvc/?username=MohammedHarmouche&color=yellow) -->
+![](https://komarev.com/ghpvc/?username=MohammedHarmouche&color=yellow)
 
 
 ## Languages and Tools
