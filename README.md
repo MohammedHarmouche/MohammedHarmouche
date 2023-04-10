@@ -32,7 +32,7 @@
 <a href="https://harmouche.devhostapp.com/">
 <img height="25" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white">
 </a>
-<a href="href="mailto:mohammedharmouche1@gmail.com?subject=SweetWords&body=Please send me a copy of your new program!"">
+<a href="href="https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&to=mohammedharmouche1@gmail.com&subject=MISSED%20CALL%20EZTRADER&body=Hello%2C%0A%0A">
 <img height="25" src="https://img.shields.io/badge/gmail-d14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 <a href="https://www.linkedin.com/in/mohammed-harmouche/">
