@@ -3,8 +3,6 @@
 - :computer: I'm a Web Developer from Morocco!
 - :purple_heart: I like designing and building cool stuff
 - :zap: Check out my work on my personal website [Here](https://harmouche.devhostapp.com/)
-
-<!-- ![](https://komarev.com/ghpvc/?username=MohammedHarmouche&color=yellow) -->
 ![Profile views](https://gpvc.arturio.dev/MohammedHarmouche) 
 
 <br />
@@ -48,6 +46,3 @@
 ## Coding Activity
 
 ![Snake animation](https://github.com/MohammedHarmouche/MohammedHarmouche/blob/output/github-contribution-grid-snake.svg)
-
-
-
