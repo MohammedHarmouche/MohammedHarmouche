@@ -39,3 +39,12 @@
 <a href="https://www.instagram.com/harmouche1/">
 <img height="25" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
+
+<br />
+
+## Coding Activity
+
+![Snake animation](https://github.com/{{MohammedHarmouche}}/{{MohammedHarmouche}}/blob/output/github-contribution-grid-snake.svg)
+
+
+
