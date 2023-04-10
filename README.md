@@ -32,7 +32,7 @@
 <a href="https://harmouche.devhostapp.com/">
 <img height="25" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white">
 </a>
-<a href="https://harmouche.devhostapp.com/">
+<a href="mailto: mohammedharmouche1@gmail.com">
 <img height="25" src="https://img.shields.io/badge/gmail-d14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 <a href="https://www.linkedin.com/in/mohammed-harmouche/">
