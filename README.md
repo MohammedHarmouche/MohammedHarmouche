@@ -4,10 +4,10 @@
 - :purple_heart: I like designing and building cool stuff
 - :zap: Check out my work on my personal website [Here](https://harmouche.devhostapp.com/)
 
-<br />
-
 <!-- ![](https://komarev.com/ghpvc/?username=MohammedHarmouche&color=yellow) -->
+![Profile views](https://gpvc.arturio.dev/MohammedHarmouche) 
 
+<br />
 
 ## Languages and Tools
 
@@ -33,6 +33,9 @@
 <a href="https://harmouche.devhostapp.com/">
 <img height="25" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white">
 </a>
+<a href="https://harmouche.devhostapp.com/">
+<img height="25" src="https://img.shields.io/badge/gmail-d14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 <a href="https://www.linkedin.com/in/mohammed-harmouche/">
 <img height="25" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a> 
@@ -40,7 +43,7 @@
 <img height="25" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 
-<br /><br />
+<br />
 
 ## Coding Activity
 
