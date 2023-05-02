@@ -1,6 +1,6 @@
 # Hi there, I'm Mohammed :wave:
 
-- :computer: I'm a Web Developer from Morocco!
+- :computer: I'm a Web Developer from Morocco !
 - :purple_heart: I like designing and building cool stuff
 - :zap: Check out my work on my personal website [Here](https://harmouche.devhostapp.com/)
 
