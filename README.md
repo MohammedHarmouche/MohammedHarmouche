@@ -4,7 +4,7 @@
 - :purple_heart: I like designing and building cool stuff
 - :zap: Check out my work on my personal website [Here](https://harmouche.devhostapp.com/)
 
-[![Image of https://github.com/gayanvoice/my-profile-views-counter](https://github.com/gayanvoice/my-profile-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/gayanvoice/my-profile-views-counter)
+![](https://komarev.com/ghpvc/?username=MohammedHarmouche)
 
 <br />
 
