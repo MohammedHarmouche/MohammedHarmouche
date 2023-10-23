@@ -46,4 +46,4 @@
 
 ## Coding Activity
 
-![Snake animation](https://github.com/MohammedHarmouche/MohammedHarmouche/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/MohammedHarmouche/MohammedHarmouche/blob/output/github-contribution-grid-snake.gif)
