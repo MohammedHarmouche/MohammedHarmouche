@@ -2,7 +2,7 @@
 
 - :computer: I'm a Web Developer from Morocco !
 - :purple_heart: I like designing and building cool stuff
-- :zap: Check out my work on my personal website [Here](https://harmouche.devhostapp.com/)
+- :zap: Check out my work on my personal website [Here](https://mohammedhr.dev0app.com/)
 
 ![](https://komarev.com/ghpvc/?username=MohammedHarmouche)
 
@@ -29,7 +29,7 @@
 
 ## Connect with me
 
-<a href="https://harmouche.devhostapp.com/">
+<a href="https://mohammedhr.dev0app.com/">
 <img height="25" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white">
 </a>
 <a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&to=mohammedharmouche1@gmail.com&subject=MISSED%20CALL%20EZTRADER&body=Hello%2C%0A%0A">
